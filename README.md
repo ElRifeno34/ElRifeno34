@@ -10,7 +10,7 @@ CS + Economics @ McGill (U3) · I use data and AI to solve business problems
 **Interested in:** tech & AI consulting · data science / ML · business consulting
 **Tools:** Python · pandas · TypeScript · JavaScript · Stata · SQL
 
-📫 [LinkedIn](https://www.linkedin.com/in/ayoub-m-137022332/) · ayoub.melliani@mail.mcgill.ca
+📫 [LinkedIn](https://www.linkedin.com/in/ayoub-m-137022332/) · ayoub.melliani@mail.mcgill.ca · https://ayoub-melliani.lovable.app
 
 <!--
 **ElRifeno34/ElRifeno34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
